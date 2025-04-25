@@ -1,0 +1,398 @@
+Page 1/4 - Curriculum vitae of  
+Surname(s) First name(s)  
+For more information on Europass go to http://europass.cedefop.europa.eu 
+© European Union, 2004-2010   24082010 
+ 
+ 
+ 
+ 
+Europass 
+Curriculum Vitae 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Personal information 
+ 
+First name / Surname  RASHID JUMA MWINYI 
+Address 
+Via Don Minzoni G. 86B, 31044, Montebelluna (TV) 
+Mobile 
+E-mail 
++39 351 8513577 
+  Rashidj.mwinyi@gmail.com 
+                                                 Nationality 
+ 
+                                              Date of birth 
+ 
+ 
+ 
+ 
+                          Work experience 
+ 
+Dates   
+Occupation or position held 
+Main activities and responsibilities 
+ 
+ 
+ 
+               Name and address of employer 
+                       Type of business or sector    
+ 
+ 
+                           
+                         Work experience 
+ 
+                                                        Dates 
+                      Occupation or position held 
+           Main activities and responsibilities 
+ 
+ 
+               
+                Name and address of employer 
+                       Type of business or sector 
+ 
+ 
+Tanzanian 
+ 
+25th December 1992 
+ 
+ 
+ 
+   
+ February 2025 – present 
+ Fullstack Developer 
+- 
+Developing and maintaining full-stack applications using PHP (Symfony framework), Java Script 
+and jQuery. 
+- 
+Implementing data-driven features and efficient database queries. 
+- 
+Optimizing application performance and ensuring responsive design. 
+- 
+Building robust backend system and interactive frontend components. 
+  
+ Trecuori/ CORWEB, Conegliano (TV) 
+ Software Development 
+  
+ November 2023 – December 2024 
+ Back-end Software Developer 
+- 
+Developed robust backend system with focus on data management. 
+- 
+Implemented algorithms to process and analyse business data. 
+- 
+Built efficient database architectures for optimal data retrieval. 
+- 
+Collaborated across teams to develop data integration solutions. 
+ 
+S.I.R.I. Srl (by Horsa Spa), Scorzè (VE) 
+Software Development 
+ 
+ 
+ 
+Page 2/4 - Curriculum vitae of  
+Surname(s) First name(s)  
+For more information on Europass go to http://europass.cedefop.europa.eu 
+© European Union, 2004-2010   24082010 
+ 
+ 
+ 
+                          Work experience 
+ 
+                                                         Dates 
+                       Occupation or position held 
+           Main activities and responsibilities 
+ 
+ 
+               Name and address of employer 
+                       Type of business or sector 
+ 
+ 
+                         Work experience  
+ 
+                                                        Dates 
+                      Occupation or position held 
+            Main activities and responsibilities 
+ 
+               Name and address of employer 
+                        Type of business or sector 
+ 
+ 
+                          Work experience 
+                                                         Dates 
+                       Occupation or position held 
+             Main activities and responsibilities 
+ 
+ 
+                Name and address of employer 
+                        Type of business or sector   
+ May 2023 – October 2023 
+ Back-end Software Developer 
+- 
+Created data pipelines for processing business metrics. 
+- 
+Implemented reporting system to extract insights from company data. 
+- 
+Optimized database queries for improved performance 
+- 
+Developed and maintained software applications for company projects. 
+ 
+Master Italia Spa, San Donà di Piave (VE) 
+Software Development 
+ 
+ 
+ 
+ 
+ 
+March 2022 – March 2023 
+Back-end Software Developer 
+- 
+Developed software solutions for an insurance company focusing on data processing. 
+- 
+Created algorithms to analyze customer and policy data. 
+- 
+Built visualization components for data-driven decision making. 
+- 
+Maintained and optimized code for existing projects. 
+Previnet Spa, Preganziol (TV) 
+Insurance company 
+ 
+ 
+ November 2019 – February 2022 
+ Production unit 
+- 
+Programmed and monitored machines during production hours. 
+- 
+Ensured quality control throughout the production process 
+- 
+Optimized production workflows to improve efficiency. 
+ 
+Dolce Forno, Altivole (TV) 
+Pastries Company 
+                          
+ 
+                        
+                                                          
+ 
+                                                                     
+ 
+ 
+ 
+Page 3/4 - Curriculum vitae of  
+Surname(s) First name(s)  
+For more information on Europass go to http://europass.cedefop.europa.eu 
+© European Union, 2004-2010   24082010 
+ 
+ 
+ 
+ 
+Education and training 
+ 
+ 
+                                                        Dates 
+                    Title of qualification awarded 
+Name and type of organization providing 
+education and training  
+       
+                                 Course and subjects 
+ 
+                                   Projects completed   
+ 
+                     
+                
+ 
+                 
+ 
+ 
+             Education and training 
+ 
+Dates 
+Title of qualification awarded 
+Name and type of organization providing 
+education and training 
+                                 Course and subjects 
+ 
+ 
+                Education and training 
+                                                         Dates 
+                     Title of qualification awarded 
+Name and type of organisation providing 
+education and training 
+ 
+                                Course and subjects 
+ 
+ 
+ 
+               Education and training 
+                                                        Dates 
+                     Title of qualification awarded 
+Name and type of organisation providing 
+education and training 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+October 2024 
+Data Science Course 
+Constructor Academy, Zurich (online course) 
+Specialized in three key areas: Machine Learning, Deep Learning and Natural Language Processing  
+(NLP)  
+- 
+Medical NLP Chatbot: developed a medical assistant using Drugbank dataset and transformer-
+based models. 
+- 
+Brain tumor detection: created a CNN model to detect and classify brain tumors from MRI 
+images. 
+- 
+Retail location optimizer: built a predictive model to determine optimal locations for new Migros 
+stores. 
+ 
+ February 2021  
+ Diploma in Full stack Software Developer 
+Cod Institute, Irland (online course) 
+ 
+ 
+ 
+- 
+Front End Developer in HTML, CSS5(Bootstrap, Materialistic), Javascript (Vanilla js, Jquery) 
+- 
+Back End Developer in Python, Flask, Django, MongoDB, Heroku, Postgress, Amazon Web 
+Service (A.W.S), Stripes 
+- 
+Introduction to Data Analysis with Python (Pandas, Matplotlib, SKLearn, Numpy and Seaborn) 
+ 
+ 
+   
+ 
+ 
+ 
+May 2018 
+Certificate in Information Technology, Cisco Certified Network Associate (CCNA) 
+International University of East Africa – Uganda, CISCO 
+ 
+ 
+- 
+Introduction in Web Designing, Graphics Designing, Computer Repair And maintenance 
+- 
+Routing and Switching protocols, Network design methodologies, Network Security, Virtual 
+networking, LAN/WAN technologies and Knowledge of service providers 
+ 
+ 
+ 
+June 2013 
+Certificate of ordinary level 
+Mbezi Beach High School, Tanzania 
+Page 4/4 - Curriculum vitae of  
+Surname(s) First name(s)  
+For more information on Europass go to http://europass.cedefop.europa.eu 
+© European Union, 2004-2010   24082010 
+ 
+ 
+ 
+ 
+ 
+ 
+   Personal skills and competences 
+ 
+                                    Mother tongue 
+English 
+ 
+ 
+Other language(s) 
+Italian (level A2), Swahili 
+ 
+ 
+Social skills and competences - 
+Good communication skills, collaborative, team spirit, proactive 
+- 
+Trustworthy, serious and diligent person  
+- 
+Adaptation to multicultural environments, openness to different realities. 
+ 
+ 
+Organisational skills and 
+competences 
+- 
+Sense of responsibility, good attitude to the management of projects and groups. 
+- 
+Give oneself a challenge, curios person, interested in learning more knowledge  
+ 
+ 
+Technical skills and competences - 
+Data Science: Machine learning, deep learning (CNN), NLP, predictive modelling 
+- 
+Programming: Python, PHP, JavaScript, HTML, CSS 
+- 
+Framework: Scikit-learn, TensorFlow, PyTorch, Keras, Symfony, Django, Flask 
+- 
+Data Processing: Pandas, NumPy, SQL, MongoDB, PostgreSQL  
+- 
+Visualization: Matplotlib, Seaborn, Ploty 
+- 
+Tools: Git, AWS, Heroku, Jupyter Notebooks, Docker 
+ 
+ 
+Computer skills and competences - 
+Good competences of Office Programs 
+- 
+Good working knowledge of software SugarCRM 
+- 
+Good use of network 
+ 
+ 
+Artistic skills and competences   Basketball and Football 
+ 
+ 
+ 
+ 
+Driving licence 
+ 
+                                          
+B grade driver’s licence/Italian 
+ 
+ 
+ 
+                                      
+ 
+                                       
+ 
+ 
+   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Autorizzo il trattamento dei miei dati personali ai sensi del Decreto Legislativo 30 giugno 2003, n. 196  
+“Codice in materia di protezione dei dati personali” 
+ 
+ 

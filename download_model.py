@@ -3,8 +3,9 @@ import os
 
 def download_mistral_model():
     repo_id = "TheBloke/Mistral-7B-Instruct-v0.1-GGUF"
-    filename = "mistral-7b-instruct-v0.1.Q4_K_M.gguf"  # Change to desired quant type
+    filename = "mistral-7b-instruct-v0.1.Q2_K.gguf"  # Change to desired quant type
     local_dir = "model"
+
 
     os.makedirs(local_dir, exist_ok=True)
 
